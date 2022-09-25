@@ -1,3 +1,10 @@
+body {
+  background: lightblue;
+}
+
+a {
+  color: blue;
+}
 .App-header {
   margin: 30px 0;
 }
